@@ -1,0 +1,9 @@
+<!-- Ganti nama mempelai head -->
+/* Ganti background foto pengantin */
+<!-- Ganti waktu pernikahan -->
+<!-- Ganti Foto pengantin perempuan -->
+<!-- Ganti lokasi resepsi -->
+<!-- Ganti lokasi maps -->
+<!-- Ganti Foto Galeri -->
+<!-- Ganti Nama Pengantin footer -->
+/* Ganti site footer gambar */
